@@ -1,6 +1,6 @@
 # day14_rps.py
 # Rock, paper, scissors: first to 3 wins.
-
+# these is the 3rd project in my journey
 import random
 
 MOVES = ("rock", "paper", "scissors")
